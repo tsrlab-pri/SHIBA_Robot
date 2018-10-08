@@ -1,0 +1,13 @@
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\bin\Debug\RoboClawTest01.exe.config
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\bin\Debug\RoboClawTest01.exe
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\bin\Debug\RoboClawTest01.pdb
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\bin\Debug\SlimDX.dll
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\bin\Debug\RoboclawClassLib.pdb
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\obj\Debug\SHIBAJoySample.csprojResolveAssemblyReference.cache
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\obj\Debug\RoboClawTest01.Form1.resources
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\obj\Debug\RoboClawTest01.Properties.Resources.resources
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\obj\Debug\SHIBAJoySample.csproj.GenerateResource.cache
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\obj\Debug\SHIBAJoySample.csproj.CoreCompileInputs.cache
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\obj\Debug\SHIBAJoySample.csproj.CopyComplete
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\obj\Debug\RoboClawTest01.exe
+C:\Users\MWtakemo\Documents\Visual Studio 2017\Projects\RoboClawTest01\RoboClawTest01\RoboClawTest01\obj\Debug\RoboClawTest01.pdb
